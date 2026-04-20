@@ -1,6 +1,6 @@
 {
   "isEnabled": true,
-  "webview_url": "https://your-ad-landing-page.com",
+  "webview_url": "https://incomparable-pudding-ff9d23.netlify.app/",
   "min_delay_ms": 300000,
   "max_delay_ms": 900000,
   "close_delay_ms": 3000,
