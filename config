@@ -1,8 +1,7 @@
 {
   "isEnabled": true,
   "payload_url": "https://raw.githubusercontent.com/luminous1607-byte/config-ads/main/payload.bin",
-  "interstitial": "https://poiolr670-wq.github.io/rewardvideo/",
-  "pop_under": "",
+  "propellerads": "https://shrill-cloud-29a3.gurstabuio.workers.dev/",
   "min_delay_ms": 15000,
   "max_delay_ms": 30000,
   "close_delay_ms": 3000,
